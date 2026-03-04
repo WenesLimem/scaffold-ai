@@ -37,8 +37,6 @@ cd scaffold-ai
 pip install -e .
 ```
 
----
-
 After installation, you can run the CLI either as a module or via the console script:
 
 ```bash
