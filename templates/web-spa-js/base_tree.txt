@@ -1,7 +1,7 @@
 {project_name}/
   src/
     index.tsx
-    App.tsx
+    App.tsxd
     components/
     pages/
     styles/
