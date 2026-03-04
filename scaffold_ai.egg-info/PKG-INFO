@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: scaffold_ai
-Version: 0.0.1
-Summary: AI-assisted project scaffolder
-Author: Wenes Limem
-Requires-Python: >=3.10
-Requires-Dist: typer>=0.12.0
-Requires-Dist: jinja2>=3.1.0
