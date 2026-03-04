@@ -1,0 +1,26 @@
+{project_name}/
+  src/
+    index.tsx
+    App.tsx
+    components/
+    pages/
+    styles/
+  public/
+    index.html
+    favicon.ico
+  config/
+    dev.env.example
+    prod.env.example
+  docs/
+    dev/
+      ENVIRONMENT.md
+      LOCAL_SETUP.md
+    prod/
+      ENVIRONMENT.md
+      DEPLOYMENT.md
+  package.json
+  tsconfig.json
+  vite.config.ts
+  .eslintrc.cjs
+  .gitignore
+  README.md

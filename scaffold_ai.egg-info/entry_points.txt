@@ -1,0 +1,2 @@
+[console_scripts]
+scaffold-ai = scaffold_ai.cli:app
